@@ -4,9 +4,9 @@ fest.js is an in development library for testing JavaScript + React code
 ## Why the name?
 
 This name is a combination of the words fast and test as well as the shorthand for JavaScript.  
-If you combine fast and test in the way I did for the name, you also end up with a German word that means two things:
-1: fest (adjective): Solid (something that tests should be to avoid them failing in "hickups"
-2: Fest (noun): Celebration (something you might want to do after you have found a library that reduces your test runtime while also increasing test stability)
+If you combine fast and test in the way I did for the name, you also end up with a German word that means two things:  
+  1. fest (adjective): Solid (something that tests should be to avoid them failing in "hickups"  
+  2. Fest (noun): Celebration (something you might want to do after you have found a library that reduces your test runtime while also increasing test stability)  
 
 ## Current status
 
