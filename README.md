@@ -10,7 +10,7 @@ If you combine fast and test in the way I did for the name, you also end up with
 
 ## Current status
 
-As you might see, there is not any code in this library yet.  
+As you might see, there currently is no code within this repository.  
 That is because I have not actually developed it at this point.  
 I was just getting so frustrated at the state of JavaScript + React testing that I chose to build my own library.  
 I didn't have time to write any code for it yet, but I came up with a name that for some reason is not taken yet (at least a quick google search didn't turn anything up) and makes a lot of sense for what this should become.
